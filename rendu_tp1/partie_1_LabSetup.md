@@ -392,3 +392,7 @@ Pinger puis vérifier que la table ARP à une nouvelle entré (celle de node2)
 ```
 
 - 🦈 La [capture](./pcaps/arp_1.pcap) ARP
+
+
+
+[Partie 2 DHCP](./partie_2_DHCP.md)

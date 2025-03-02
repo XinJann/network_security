@@ -113,3 +113,5 @@ optional arguments:
 => j'ai mis un `sleep(2)` entre chaque envoie des trames ARP (pour faciliter la lecture)
 => On remarque bien que les 3 premiers pings (`node2` vers `dhcp`) est bien reçu et `node1` assure bien la transition
 => Idem pour les 3 autres pings (`dhcp` vers `node2`)
+
+[Partie 5 Playing DHCP](./partie_5_playing_dhcp.md)
